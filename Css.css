@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    
+}
+p{
+    color: hotpink;
+    font-size: large;
+}
+h1,h2 {
+    color: saddlebrown;
+    font-size: small;
+}
+.navigointi {
+    text-align: left;
+    background-color: #FFFAFA;
+    border: 1+x solid black;
+}
+.teksti {
+    font-size: 120%;
+}
+.kuvat {
+    max-width: 100%;
+}
+.alaviite {
+    float: left;
+}
